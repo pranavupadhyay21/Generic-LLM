@@ -7,7 +7,7 @@
 
 - The LangChain framework is made up of several open-source libraries that work together to build powerful AI applications. Here's a quick breakdown:
 
-- langchain-core: The base building blocks — it provides the core features like how chat models and tools work.
+- langchain-core: The base building blocks it provides the core features like how chat models and tools work.
 
 - Integration Packages (like langchain-openai, langchain-anthropic, etc.): These are small, focused packages that connect LangChain to different AI models and services. They're maintained by both the LangChain team and the providers (like OpenAI).
 
