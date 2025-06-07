@@ -11,7 +11,7 @@
 
 - Integration Packages (like langchain-openai, langchain-anthropic, etc.): These are small, focused packages that connect LangChain to different AI models and services. They're maintained by both the LangChain team and the providers (like OpenAI).
 
-- langchain: This is where the main logic happens — it includes chains (sequences of tasks), agents (smart decision-makers), and tools for building the brain of your app.
+- langchain: This is where the main logic happens it includes chains (sequences of tasks), agents (smart decision-makers), and tools for building the brain of your app.
 
 - langchain-community: A collection of tools and connections created and maintained by the open-source community.
 
